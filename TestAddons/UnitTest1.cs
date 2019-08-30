@@ -7,7 +7,7 @@ namespace Tests
 {
 
     [TestFixture(AutomatedBrowserType.Edge)]
-    [TestFixture(AutomatedBrowserType.Chrome)]
+    [TestFixture(AutomatedBrowserType.Chrome)]..
     public class Tests
     {
 
